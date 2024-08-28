@@ -1,0 +1,11 @@
+Model Information:
+* title:	Samsung S23 Ultra (Free)
+* source:	https://sketchfab.com/3d-models/samsung-s23-ultra-free-f559464bf0f8453d95a0cd273de3ff0b
+* author:	Imagigoo (https://sketchfab.com/Imagigoo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Samsung S23 Ultra (Free)" (https://sketchfab.com/3d-models/samsung-s23-ultra-free-f559464bf0f8453d95a0cd273de3ff0b) by Imagigoo (https://sketchfab.com/Imagigoo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
